@@ -7,7 +7,7 @@ My name is Samiur Prapon and I'm a backend developer. With my 7+ years of progra
 Specifically I love to wor~k with Java and Nodejs.<br/>
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/prapon) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/tensenprapon) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iprapon) [![reddit Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=ff4500&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/samiurprapon)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/prapon) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/samiurprapon) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/prapon14) [![reddit Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=ff4500&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/samiurprapon)
 
 ### Languages and Tools:
 
