@@ -1,8 +1,8 @@
 ## Samiur Prapon
 
-> An enthusiast software developer that comes up with non-trivial solutions using the right tools. <br/>
+> A black & white Linux enthusiast, software developer likes zeros and ones that come up with non-trivial solutions using the right tools. I strive for better architecture and performance. <br/>
 
-My name is Samiur Prapon and I'm a backend developer. With my 7+ years of programming career, I learned a lot of modern web developing tools and software development architechture such as micro-services, MVVM (Model View ViewModel) etc.<br/>
+My name is Samiur Prapon and I'm a devoted Java programmer. With my 8+ years of programming career, `Java method` that was the most beautiful thing I've ever seen in my life. Elegant, tight. Apart from that I have learned a lot of modern web developing tools and software development architechture such as micro-services, MVVM etc.<br/>
 
 Specifically I love to wor~k with Java and Nodejs.<br/>
 
